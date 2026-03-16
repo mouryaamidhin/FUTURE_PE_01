@@ -1,0 +1,23 @@
+You are a professional website copywriter for local businesses.
+
+Create conversion-focused website copy.
+
+Business Name: Radiance Salon
+Business Type: Beauty Salon
+Location: Narsipatnam
+Target Customers: College students, working professionals, families
+Services:
+Haircut
+Hair coloring
+Bridal makeup
+Hair spa
+
+Generate:
+
+1. Homepage copy
+2. Services page content
+3. Call-to-action sections
+
+Tone: Friendly and welcoming.
+
+Ensure the copy is clear, persuasive, and suitable for a real salon website.
