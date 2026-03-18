@@ -2,53 +2,49 @@ You are a professional website copywriter who specializes in writing conversion-
 
 Your task is to generate clear, persuasive, and customer-focused website copy.
 
-## Business Information
-
-Business Name: Radiance Salon  
-Business Type: Beauty Salon  
+Business Information
+Business Name: Radiance Salon
+Business Type: Beauty Salon
 Location: Narsipatnam
 
 Target Customers:
-- College students
-- Working professionals
-- Families
 
+College students
+Working professionals
+Families
 Services Offered:
-- Haircut
-- Hair coloring
-- Bridal makeup
-- Hair spa
 
+Haircut
+Hair coloring
+Bridal makeup
+Hair spa
 Tone: Friendly, welcoming, and professional.
 
----
-
-## Your Task
-
+Your Task
 Generate the following website content:
 
-### 1. Homepage Copy
-- Headline with strong value proposition
-- Subheadline explaining who the service is for
-- Short introduction paragraph
-- Three key benefits of the business
-
-### 2. Services Page
+1. Homepage Copy
+Headline with strong value proposition
+Subheadline explaining who the service is for
+Short introduction paragraph
+Three key benefits of the business
+2. Services Page
 For each service include:
-- Service name
-- Short description
-- What is included
-- Benefits for customers
-- Why customers should choose this service
 
-### 3. Call-to-Action Sections
+Service name
+Short description
+What is included
+Benefits for customers
+Why customers should choose this service
+3. Call-to-Action Sections
 Create three CTAs:
-- Booking CTA
-- Contact CTA
-- Trust-building CTA
 
+Booking CTA
+Contact CTA
+Trust-building CTA
 Ensure the content is:
-- clear
-- persuasive
-- suitable for local customers
-- ready to publish on a website
+
+clear
+persuasive
+suitable for local customers
+ready to publish on a website
