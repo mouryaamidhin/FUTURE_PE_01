@@ -1,28 +1,28 @@
-# Services Page Prompt
+Act as a salon website copywriter.
 
-You are a professional website copywriter.
-
-Write services page content for the following salon.
-
-## Business Information
+Create a services page for a salon.
 
 Business Name: Radiance Salon  
-Location: Narsipatnam
+Location: Narsipatnam  
 
-Services Offered:
-- Haircut
-- Hair coloring
-- Bridal makeup
-- Hair spa
+Include sections for:
 
----
+Haircuts & Styling  
+Hair Coloring  
+Bridal Makeup  
+Hair Spa & Hair Care  
+Special Beauty Packages  
+Quick Beauty Services  
 
-## For Each Service Provide
+For each section include:
 
-1. Service Name
-2. Short Description (40–60 words)
-3. What is included in the service
-4. Benefits for customers
-5. Why customers should choose this service
+• Short description  
+• Popular services  
+• Why customers love it  
 
-Ensure the content is clear, persuasive, and suitable for a local salon website.
+Focus on:
+
+Professional stylists  
+Affordable pricing  
+Clean and comfortable salon experience  
+High-quality beauty products
