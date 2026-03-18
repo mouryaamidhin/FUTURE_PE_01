@@ -1,15 +1,22 @@
-Create persuasive call-to-action sections for a cafe website.
-Business Name: Cafe
-Location: Kakinada
+Create persuasive call-to-action sections for a salon website.
+
+Business Name: Radiance Salon  
+Location: Narsipatnam
+
 Write 5 CTA sections that encourage customers to:
-• Visit the cafe
-• Order takeaway
-• Bring friends and family
-• Relax and enjoy coffee
-• Try the signature menu items
+
+• Visit the salon  
+• Book a haircut or beauty service  
+• Bring friends or family for beauty services  
+• Relax and enjoy a refreshing salon experience  
+• Try popular services like hair coloring, bridal makeup, or hair spa  
+
 Each CTA should:
-• Be short
-• Create excitement
-• Encourage immediate action
+
+• Be short  
+• Create excitement  
+• Encourage immediate action  
+
 Tone:
+
 Friendly and inviting.
