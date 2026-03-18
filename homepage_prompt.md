@@ -1,34 +1,28 @@
-# Homepage Copy Prompt
+Act as a professional website copywriter.
 
-Act as an expert website copywriter specializing in local business websites.
-
-Create homepage copy for the following business.
-
-## Business Details
+Create homepage website copy for the following business.
 
 Business Name: Radiance Salon  
 Location: Narsipatnam  
-Business Type: Beauty Salon
+Business Type: Salon  
 
-Target Audience:
-- College students
-- Working professionals
-- Families
+Target Customers:  
+College students  
+Working professionals  
+Families  
 
-Services:
-- Haircut
-- Hair coloring
-- Bridal makeup
-- Hair spa
+USP:  
+10+ years experience  
+Affordable pricing  
+Premium hygiene standards  
 
----
+Write the homepage with these sections:
 
-## Generate
+Headline (Clear value proposition)  
+Sub-headline (Who it’s for + benefit)  
+Short introduction paragraph  
+Why customers love this salon  
+Featured service highlights  
+Friendly invitation to visit  
 
-1. Headline (clear value proposition)
-2. Subheadline (who the service is for)
-3. Intro paragraph (50–80 words)
-4. Three key benefits customers receive
-5. A short trust statement
-
-Write in a friendly tone suitable for a beauty salon website.
+Tone: Warm, friendly, and welcoming.
